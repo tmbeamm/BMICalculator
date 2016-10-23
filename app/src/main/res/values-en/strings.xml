@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="textView">Height(cm)</string>
+    <string name="textView2">Weight(kg.)</string>
+    <string name="button">CALCULATE</string>
+</resources>
